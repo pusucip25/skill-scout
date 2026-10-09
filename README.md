@@ -9,6 +9,8 @@ skills registry risky to use raw: **clone pollution** in the rankings, and the
 
 No dependencies. Python 3.9+ and `npx` (Node) are all you need.
 
+![skill-scout demo — clone/mirror duplicates collapsed and a SKILL.md security review](docs/demo.png)
+
 ---
 
 ## Why this exists
